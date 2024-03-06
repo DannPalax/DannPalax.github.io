@@ -1,0 +1,91 @@
+header{
+    background-color: black;
+    width: 100%;
+}
+ h1{color: rgba(0, 0, 0, 0.977);
+    display:flex ;
+font-size: 2cm;
+justify-content: center;
+font-family:serif;}
+
+button{
+    width: 170px;
+    height: 50px;
+    background-color: rgb(74, 2, 2) ;
+    font-size: 2.5ch;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0.7cm;
+    font-size: 0.5cm;
+}
+.boton1{
+    color: azure;
+    display:flex:left;}
+    .boton2{
+        color: azure;
+        display:flex:left}
+        .boton3{
+            color: azure;
+            display:flex:left}
+            .boton4{
+                color: azure;
+                display:flex:left}
+                .boton5{
+                    color: azure;
+                    display:flex:left}
+                    
+                    .menu{font-size: 2ch;}
+
+.logoskz{width: 250px;
+display: flex ;
+flex-direction: row ;}
+
+h2{
+    font-size: 5ch;
+    font-family:fantasy;
+  font-weight: 400;
+  font-style: normal;
+  justify-content: left;
+  
+}
+
+ul{width: 100%;
+font-size: 3ch;
+font-family:Georgia, 'Times New Roman', Times, serif;}
+
+.Chan {float: right;}
+.lino {float: right;}
+.binnie {float: right;}
+.jinnie {float: right;}
+.hannie {float: right;}
+.lix {float: right;}
+.minnie {float: right;}
+.innie {float: right;}
+.skzoo{width: 300px;}
+.skzoo2 {width: 300px;}
+
+
+
+footer{
+    width: 100%;
+    background-color: black;}
+.X {
+    width: 50px;
+    float: left;
+}
+.TT{
+    width: 50px;
+    float: left;
+}
+
+.YT{
+    width: 50px;
+    float: left;
+    
+}
+.SKZ{
+    width: 50px;
+    float: right;
+}
+
+
+
